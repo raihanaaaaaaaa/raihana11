@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class campuslife {
+public class campuslife2 {
 
     // MAIN METHOD
     public static void main(String[] args) {

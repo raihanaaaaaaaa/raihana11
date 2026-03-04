@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class camplifeb1 {
+public class camplifeclasses {
 
     public static void main(String[] args) {
 
